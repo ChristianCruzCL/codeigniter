@@ -1,0 +1,11 @@
+commit d76b709cda6e7fbf43d72eefd4e054885fa36375
+Author: Lic. Christian Cruz <instructorcds1@usam.edu.sv>
+Date:   Sat Nov 30 09:35:24 2019 -0600
+
+    Se ha realizado un cambio de amigos a estudiantes USAM
+
+commit 2f858a20d8191588d35da2198e6fa2fae2616acf
+Author: Lic. Christian Cruz <instructorcds1@usam.edu.sv>
+Date:   Sat Nov 30 09:29:44 2019 -0600
+
+    Iniciando con GIT
