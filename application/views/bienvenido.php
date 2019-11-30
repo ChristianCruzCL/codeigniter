@@ -5,7 +5,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
-<h1> Bienvenidos amigos del CDS! Este es un mensaje cargado desde el controlador y archivo controlador.php </h1>
+<h1> Bienvenidos ESTUDIANTES del CDS USAM! Este es un mensaje cargado desde el controlador y archivo controlador.php </h1>
 <?php echo getNombre(); ?>
 <?php echo foo(); ?>
 <?php $r = operaciones_basicas(6,3, "Multiplicar");
