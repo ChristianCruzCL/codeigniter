@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1> cambios realizados en la rama de PRUEBA </h1>
+<h1> ESTA ES LLA VERSOIN 2 DEL PRYECTO </h1>
 <?php echo getNombre(); ?>
 <?php echo foo(); ?>
 <?php $r = operaciones_basicas(6,3, "Multiplicar");
